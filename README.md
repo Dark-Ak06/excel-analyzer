@@ -27,7 +27,7 @@ Backend-сервис для автоматизации анализа Excel-фа
 ## 📸 Демонстрация API
 
 ### Swagger UI
-![Swagger UI](swagger.png)
+![Swagger UI](Swagger.png)
 
 ## 🧠 Идея проекта
 
